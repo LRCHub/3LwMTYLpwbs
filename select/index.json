@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "電波ジャック",
+  "base_artist": "パスピエ",
+  "createdAt": "2026-02-25T03:15:09.547252Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "電波ジャック",
+      "artist": "パスピエ",
+      "has_synced": false,
+      "path": "select/pl_01_電波ジャック_パスピエ.txt"
+    }
+  ]
+}
